@@ -14,10 +14,11 @@ Here is a [video tutorial](https://youtu.be/G23W2WtwAIw) if needed
  8. Connect the IR board to your EV3 brick like any other sensor 
  
 ## Building your robot
-45 Degree - Yellow Holes
-90 Degree - Red Holes
+`45 Degree - Yellow Holes`
+`90 Degree - Red Holes`
+> DO NOT MIX THESE HOLES OR YOU MAY BREAK THE BOARD
 
-![](https://user-images.githubusercontent.com/60083582/222572947-3fa34443-9845-44ad-926e-bf05eabd523c.png)
+![](https://user-images.githubusercontent.com/60083582/222574224-28a1a3c3-0c22-4469-9c6b-1e1b0e48eb03.png)
 
 ## Writing code
 ### Copy this class into your code

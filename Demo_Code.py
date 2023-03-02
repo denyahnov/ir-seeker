@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from sensor import IRSeeker360
 
 from ev3dev2.sensor import INPUT_1

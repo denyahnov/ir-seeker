@@ -1,4 +1,4 @@
-# BBR - 360 IR Seeker
+# 360 IR Seeker - Building Block Robotics
 ### Official Website: https://irseeker.buildingblockrobotics.com/
 ![](https://3854067563-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fwumhy9Amexb1fvjNOGl8%2Fuploads%2FGAIFGoCIqSNBC1NGZRd5%2FIR%20Seeker%20-%20v1-2%202%20.jpg?alt=media)
 

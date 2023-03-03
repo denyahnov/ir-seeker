@@ -11,7 +11,10 @@ Here is a [video tutorial](https://youtu.be/G23W2WtwAIw) if needed
  5. If you have pressed the button correctly, you will see a new USB drive appear on your computer. This drive will be called `BBSBOOT`.
  6. Copy the firmware update to this drive. (no need to rename file)
  7. The IR board will restart and the USB drive will disappear. It’s now ready to be used on your robot again.
- 8. Connect the IR board to your EV3 brick like any other sensor 
+ 8. Carefully flip the 3 switches to `Off` `On` `Off` configuration
+ 9. Connect the IR board to your EV3 brick like any other sensor 
+
+![](https://3854067563-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fwumhy9Amexb1fvjNOGl8%2Fuploads%2FNTQLWEEINvULZfBmkvvB%2FAdvancedPosition.png?alt=media)
  
 ## Building your robot
 `45 Degree - Yellow Holes`

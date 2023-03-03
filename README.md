@@ -8,7 +8,7 @@ Here is a [video tutorial](https://youtu.be/G23W2WtwAIw) if needed
  2. Plug the IR board into your computer using Micro USB
  3. Find the reset button on the board
  4. Double press the reset button.
- 5. If you have pressed the button correctly, you will see a new USB drive appear on your computer. This drive will be called BBSBOOT.
+ 5. If you have pressed the button correctly, you will see a new USB drive appear on your computer. This drive will be called `BBSBOOT`.
  6. Copy the firmware update to this drive. (no need to rename file)
  7. The IR board will restart and the USB drive will disappear. It’s now ready to be used on your robot again.
  8. Connect the IR board to your EV3 brick like any other sensor 
@@ -16,7 +16,7 @@ Here is a [video tutorial](https://youtu.be/G23W2WtwAIw) if needed
 ## Building your robot
 `45 Degree - Yellow Holes`
 `90 Degree - Red Holes`
-> DO NOT MIX THESE HOLES OR YOU MAY BREAK THE BOARD
+> **Note:** Do not mix these holes or you may break the board
 
 ![](https://user-images.githubusercontent.com/60083582/222574224-28a1a3c3-0c22-4469-9c6b-1e1b0e48eb03.png)
 
